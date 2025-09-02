@@ -38,6 +38,7 @@ int main()
     4 no practice
     area of Rectangle
     */
+   
     int length, width;
     printf("Enter length and width of Rectangle: ");
     scanf("%d %d", &length, &width);
